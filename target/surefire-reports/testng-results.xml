@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-24T15:21:50 IST" name="userDetailsSF" finished-at="2020-05-24T15:22:11 IST" duration-ms="21219">
+    <groups>
+    </groups>
+    <test started-at="2020-05-24T15:21:50 IST" name="bvtSuit" finished-at="2020-05-24T15:22:11 IST" duration-ms="21219">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@1d548a08]" started-at="2020-05-24T15:21:50 IST" name="setUp" finished-at="2020-05-24T15:22:05 IST" duration-ms="15756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:tests.LoginTest@1d548a08]" started-at="2020-05-24T15:22:06 IST" name="loginTest" finished-at="2020-05-24T15:22:09 IST" duration-ms="3788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:tests.LoginTest@1d548a08]" started-at="2020-05-24T15:22:09 IST" name="postCondition" finished-at="2020-05-24T15:22:11 IST" duration-ms="1650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- bvtSuit -->
+  </suite> <!-- userDetailsSF -->
+</testng-results>
